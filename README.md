@@ -43,10 +43,6 @@ This platform simplifies the management of lab resources, ensuring accountabilit
    - Manage component inventory with real-time updates.  
    - Easily track and retrieve student borrowing histories.  
 
----
-
-## 📷 Preview  
-[Add screenshots or a link to a live demo here, if available.]
 
 ---
 
